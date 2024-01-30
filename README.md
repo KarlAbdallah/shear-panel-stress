@@ -20,3 +20,4 @@ where <filename>.c is the name of the file you want to compile (in this case, it
 
 # Usage #
 * You can now run the 'dll_import_test.py' file to test if the .dll was correctly built.
+* The function returns the Margin of Safety of the assembly to the applied load. Margins below 0.0 indicate material failure.
